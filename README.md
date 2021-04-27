@@ -1,13 +1,13 @@
 
 ## 💬 will
-hello,i am will,a java engineer.now I’m working in Dalian,a beautiful coastal city.
+Hello,i am will,a java engineer.now I’m working in Dalian,a beautiful coastal city.
 
 ## ⚡ doing
 
-I’m developing a log collection system which name is [ultlog](https://github.com/ultlog) outside of work.It has helped many of my colleagues to easily get log from complex environment.so it saves us time.
+I’m developing a util crate name is [puck](https://github.com/willser/puck) outside of work.
 
 ## 🌱 learning
-I’m currently learning rust and shell to add features to ultlog.And I am interested in data structures and algorithms.
+I’m currently learning rust and shell.And I am interested in data structures and algorithms.
 
 ## :star: github
 ![Will's github stats](https://github-readme-stats.vercel.app/api?username=willser)
