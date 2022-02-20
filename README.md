@@ -4,7 +4,7 @@ Hello,i am will,a java engineer.now I’m working in Dalian,a beautiful coastal 
 
 ## ⚡ doing
 
-I’m developing a util crate name is [puck](https://github.com/willser/puck) outside of work.
+I’m developing a mod for CK3 which name is [Legends of old time](https://github.com/LegendsOfOldTime/LegendsOfOldTime) outside of work.
 
 ## 🌱 learning
 I’m currently learning rust and shell.And I am interested in data structures and algorithms.
