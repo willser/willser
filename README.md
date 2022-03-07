@@ -1,6 +1,6 @@
 
 ## 💬 will
-Hello,i am will,a java engineer.now I’m working in Dalian,a beautiful coastal city.
+Hello,i am will,a software developer.now I’m working in Dalian,a beautiful coastal city.
 
 ## ⚡ doing
 
